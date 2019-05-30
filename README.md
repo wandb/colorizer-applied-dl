@@ -19,7 +19,7 @@ Modify this file and the data pipeline (or write your own scripts and create dif
 
 4. Submit your results to the [benchmark](https://app.wandb.ai/wandb/colorizer-applied-dl/benchmark).
 
-## The goal
+## Goal
 
 The goal is to add realistic/natural color to a given black and white photo.
 
