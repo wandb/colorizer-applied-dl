@@ -10,7 +10,7 @@ color to black & white photos.
 3. You can run the model and log the results to Weights & Biases by running:
 
 ```
-$ pip install -r requirements.txt
+$ pip install -U -r requirements.txt
 $ wandb login
 $ python color.py
 ```
